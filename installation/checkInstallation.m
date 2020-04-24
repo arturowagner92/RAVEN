@@ -1,4 +1,4 @@
-function checkInstallation()
+
 % checkInstallation
 %   The purpose of this function is to check if all necessary functions are
 %   installed and working. It also checks whether there are any functions
